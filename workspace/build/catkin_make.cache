@@ -1,2 +1,0 @@
-motion_node
--DCATKIN_DEVEL_PREFIX=/home/demao/srtp/workspace/devel -DCMAKE_INSTALL_PREFIX=/home/demao/srtp/workspace/install -G Unix Makefiles
